@@ -32,6 +32,4 @@
 
 
 
-
-/
 ![Дно](https://github.com/MysticalFaceLesS/MyStorage/blob/master/End.png)
